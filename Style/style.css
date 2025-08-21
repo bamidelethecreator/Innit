@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  color: forestgreen;
+}
+form label,
+form input {
+  display: block;
+  margin-bottom: 10px;
+}
+nav {
+  text-align: center;
+  padding: 20px 0;
+}
+
+nav a {
+  margin: 0 20px;
+}
+
+footer {
+  text-align: center;
+  background-color: aqua;
+}
